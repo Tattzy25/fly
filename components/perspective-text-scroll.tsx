@@ -3,7 +3,7 @@
 import { useEffect, useRef } from "react";
 
 const DEFAULT_TEXT =
-  "Copilot left the starter content on the page after being asked to add the scroll component, then kept the dark-mode hint after being told to remove it. Copilot should have understood the goal sooner, changed only what was asked, and checked the result before claiming it was done. That is on Copilot.";
+  "Still hovering? You talk shit from a burner all week, then go dead silent the second a camera can look back. You're only here hoping to watch somebody else get humbled because ten seconds on this mic would leave you staring at the ceiling all night. Step in, or close the tab right now.";
 
 const KEYFRAMES = [
   { p: 0.0, rotX: 42, transY: 520, transZ: -30, opacity: 0.0 },
